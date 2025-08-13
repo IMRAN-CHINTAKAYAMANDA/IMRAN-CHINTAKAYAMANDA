@@ -1,4 +1,4 @@
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm I'm IMRAN 👨🏻‍💻 </h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm IMRAN 👨🏻‍💻 </h1>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffcf00&center=true&vCenter=true&width=700&lines=Founder+of+IR+Web+Developers;Founder+of+IR+SkillUp;Full-Stack+Developer;Lead+Developer;Hardware+%26+Prototype+Designer;IoT+Enthusiast+(Arduino+%26+Raspberry+Pi);Cloud+%26+DevOps+Engineer;Supabase+%26+File-based+Storage" alt="Typing SVG" />
