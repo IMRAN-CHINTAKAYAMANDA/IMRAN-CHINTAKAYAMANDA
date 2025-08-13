@@ -1,7 +1,7 @@
 # Hi, I'm IMRAN 👋🏻 👨🏻‍💻
 <img src="https://www.irwebdevelopers.com/Imran%20Chintakayamanda.gif" alt="banner with coding theme and creativity vibe">
 
-Hi, I’m Imran! Founder of IR Web Developers and IR SkillUp, I’m a full-stack developer, lead developer, hardware & prototype designer. I work with JavaScript, Python, React, Node.js, MongoDB, MySQL, PostgreSQL, and Supabase. I also design IoT solutions using Arduino, Raspberry Pi, and other embedded systems, creating scalable, user-friendly software and innovative hardware projects
+👋 Welcome to my GitHub! Your support and guidance mean a lot to me as I continue learning and building. Feel free to explore my projects, share your thoughts, and guide me on my journey. 🚀
 
 Some technologies I enjoy working with include:
 Languages: JavaScript (ES6+), Python, Java, C++
@@ -15,4 +15,4 @@ I love diving into new technologies, experimenting with innovative ideas, and co
 Find me around the web 🌎
 Showcasing my work on <a href="https://github.com/your-github-username">GitHub</a> 📂
 Sharing ideas & updates on <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> 💼
-Learning, exploring, and building side projects �
+Learning, exploring, and building side projects 
