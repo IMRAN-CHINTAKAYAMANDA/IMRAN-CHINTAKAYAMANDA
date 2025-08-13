@@ -20,6 +20,6 @@ Tools & Platforms: Git, GitHub, Docker, VS Code
 I love diving into new technologies, experimenting with innovative ideas, and collaborating on exciting projects. My mission? To create software that’s fast, reliable, and user-friendly. 🚀
 
 Find me around the web 🌎
-Showcasing my work on <a href="https://github.com/your-github-username">GitHub</a> 📂
-Sharing ideas & updates on <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> 💼
+Showcasing my work on <a href="https://github.com/IMRAN-CHINTAKAYAMANDA">GitHub</a> 📂
+Sharing ideas & updates on <a href="https://www.linkedin.com/in/imran-chintakayamanda">LinkedIn</a> 💼
 Learning, exploring, and building side projects 
