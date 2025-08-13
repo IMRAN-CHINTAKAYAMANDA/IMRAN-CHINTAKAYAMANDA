@@ -1,11 +1,18 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm IMRAN 👋🏻 👨🏻‍💻
+<img src="https://www.irwebdevelopers.com/Imran%20Chintakayamanda.gif" alt="banner with coding theme and creativity vibe">
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+Hi, I’m Imran! Founder of IR Web Developers and IR SkillUp, I’m a full-stack developer, lead developer, hardware & prototype designer. I work with JavaScript, Python, React, Node.js, MongoDB, MySQL, PostgreSQL, and Supabase. I also design IoT solutions using Arduino, Raspberry Pi, and other embedded systems, creating scalable, user-friendly software and innovative hardware projects
 
+Some technologies I enjoy working with include:
+Languages: JavaScript (ES6+), Python, Java, C++
+Front-end: HTML5, CSS3, React, Tailwind CSS
+Back-end: Node.js, Express.js
+Databases: MongoDB, MySQL, PostgreSQL
+Tools & Platforms: Git, GitHub, Docker, VS Code
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+I love diving into new technologies, experimenting with innovative ideas, and collaborating on exciting projects. My mission? To create software that’s fast, reliable, and user-friendly. 🚀
 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+Find me around the web 🌎
+Showcasing my work on <a href="https://github.com/your-github-username">GitHub</a> 📂
+Sharing ideas & updates on <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> 💼
+Learning, exploring, and building side projects �
